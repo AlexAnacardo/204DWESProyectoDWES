@@ -15,9 +15,9 @@
         </header>
         <main>
             <ul>
-                <li><a target="blank" href="doc/EstudioTema1.pdf">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR Estudio tema 1</a></li>
-                <li><a target="_blank" href="doc/EstudioTema2.pdf">TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN Estudio tema 2</a></li>
-                <li><a href="204DWESProyectoTema3/index.html">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP Estudio tema 3</a></li>
+                <li><a target="blank" href="doc/EstudioTema1.pdf">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
+                <li><a target="_blank" href="doc/EstudioTema2.pdf">TEMA 2: INSTALACIÓN DEL ENTORNO DE DESARROLLO/EXPLOTACIÓN</a></li>
+                <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                 <li>TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP Estudio funciones PHP</li>
                 <li>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</li>                
             </ul>      
