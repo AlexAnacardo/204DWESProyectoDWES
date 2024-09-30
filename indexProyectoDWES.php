@@ -19,7 +19,10 @@
                 <li><a target="_blank" href="doc/EstudioTema2.pdf">TEMA 2: INSTALACIÓN DEL ENTORNO DE DESARROLLO/EXPLOTACIÓN</a></li>
                 <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
                 <li>TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP Estudio funciones PHP</li>
-                <li>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</li>                
+                <li>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</li>
+                <li>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</li>
+                <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>
+                <li>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</li>               
             </ul>      
         </main>
         <footer>
