@@ -13,18 +13,46 @@
         <header>
             <h1>Desarrollo de aplicaciones web en entorno servidor</h1>
         </header>
-        <main>
-            <ul>
-                <li><a target="blank" href="doc/EstudioTema1.pdf">TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</a></li>
-                <li><a target="_blank" href="doc/EstudioTema2.pdf">TEMA 2: INSTALACIÓN DEL ENTORNO DE DESARROLLO/EXPLOTACIÓN</a></li>
-                <li><a href="../204DWESProyectoTema3/indexProyectoTema3.php">TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</a></li>
-                <li>TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP Estudio funciones PHP</li>
-                <li>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</li>
-                <li>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</li>
-                <li>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</li>                
-                <li>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</li>               
-                <li></li>
-            </ul>      
+        <main>    
+            <div id="tema1">
+                <h2>TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</h2>
+                <p><a target="blank" href="doc/EstudioTema1.pdf">Estudio Teorico: Desarollo de aplicaciones web</a></p>
+                <p><a target="_blank" href="laravel">Estudio Teorico: Laravel</a></p>
+            </div>
+            <div id="tema2">
+                <h2>TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
+                <p><a target="blank" href="doc/EstudioTema2.pdf">Entorno de desarollo AMP</a></p>
+                <p><a>Funciones y clases PHP</a></p>
+                <p><a href="practicaLaravel">Entorno de Desarollo</a></p>
+            </div>
+            <div id="tema3">
+                <h2>TEMA 3: CARACTERÍSTICAS DEL LENGUAJE PHP</h2>
+                <p><a href="../204DWESProyectoTema3/indexProyectoTema3.php">Ejercicios Tema 3</a></p>                
+            </div>
+            <div id="tema4">
+                <h2>TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP Estudio funciones PHP</h2>
+                <p><a href="../204DWESProyectoTema4/indexProyectoTema4.php">Ejercicios Tema 4</a></p>
+            </div>
+            <div id="tema1">
+                <h2>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</h2>
+                <p></p>
+                <p></p>
+            </div>
+            <div id="tema1">
+                <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2>
+                <p></p>
+                <p></p>
+            </div>
+            <div id="tema1">
+                <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>
+                <p></p>
+                <p></p>
+            </div>
+            <div id="tema1">
+                <h2>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>
+                <p></p>
+                <p></p>
+            </div>
         </main>
         <footer>
             <p><a href="../index.html">Alex Asensio Sanchez</a></p>
