@@ -33,25 +33,17 @@
                 <h2>TEMA 4: TÉCNICAS DE ACCESO A DATOS EN PHP Estudio funciones PHP</h2>
                 <p><a href="../204DWESProyectoTema4/indexProyectoTema4.php">Ejercicios Tema 4</a></p>
             </div>
-            <div id="tema1">
-                <h2>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</h2>
-                <p></p>
-                <p></p>
+            <div id="tema5">
+                <h2>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</h2>                
             </div>
-            <div id="tema1">
-                <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2>
-                <p></p>
-                <p></p>
+            <div id="tema6">
+                <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2>                
             </div>
-            <div id="tema1">
-                <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>
-                <p></p>
-                <p></p>
+            <div id="tema7">
+                <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>                
             </div>
-            <div id="tema1">
-                <h2>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>
-                <p></p>
-                <p></p>
+            <div id="tema8">
+                <h2>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>              
             </div>
         </main>
         <footer>
