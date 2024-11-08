@@ -17,12 +17,12 @@
             <div id="tema1">
                 <h2>TEMA 1: DESARROLLO WEB EN ENTORNO SERVIDOR</h2>
                 <p><a target="blank" href="doc/EstudioTema1.pdf">Estudio Teorico: Desarollo de aplicaciones web</a></p>
-                <p><a target="_blank" href="laravel">Estudio Teorico: Laravel</a></p>
+                <p><a target="_blank" href="doc/estudioTeoricoLaravel">Estudio Teorico: Laravel</a></p>
             </div>
             <div id="tema2">
                 <h2>TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
                 <p><a target="blank" href="doc/EstudioTema2.pdf">Entorno de desarollo AMP</a></p>
-                <p><a>Funciones y clases PHP</a></p>
+                <p><a target="blank" href="doc/estudioFuncionesyClasesPHP">Funciones y clases PHP</a></p>
                 <p><a href="practicaLaravel">Entorno de Desarollo</a></p>
             </div>
             <div id="tema3">
