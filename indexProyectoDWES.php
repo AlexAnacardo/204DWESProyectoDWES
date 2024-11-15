@@ -22,7 +22,7 @@
             <div id="tema2">
                 <h2>TEMA 2: INSTALACIÓN, CONFIGURACIÓN Y DOCUMENTACIÓN DEL ENTORNO DE DESARROLLO Y DEL ENTORNO DE EXPLOTACIÓN</h2>
                 <p><a target="blank" href="doc/EstudioTema2.pdf">Entorno de desarollo AMP</a></p>
-                <p><a target="blank" href="doc/estudioFuncionesyClasesPHP">Funciones y clases PHP</a></p>
+                <p><a target="blank" href="doc/estudioFuncionesyClases.pdf">Funciones y clases PHP</a></p>
                 <p><a target="blank" >Entorno de Desarollo</a></p>
             </div>
             <div id="tema3">
