@@ -34,7 +34,8 @@
                 <p><a href="../204DWESProyectoTema4/indexProyectoTema4.php">Ejercicios Tema 4</a></p>
             </div>
             <div id="tema5">
-                <h2>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</h2>                
+                <h2>TEMA 5: DESARROLLO DE APLICACIONES WEB UTILIZANDO CÓDIGO EMBEBIDO Estudio clases PHP</h2>
+                <p><a href="../204DWESProyectoTema5/indexProyectoTema5.php">Ejercicios Tema 5</a></p>
             </div>
             <div id="tema6">
                 <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2>                
