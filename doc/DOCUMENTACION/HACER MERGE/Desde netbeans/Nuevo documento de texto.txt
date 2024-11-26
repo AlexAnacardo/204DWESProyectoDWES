@@ -1,0 +1,16 @@
+cambiar a rama a mergear (en este caso master)
+
+team git -> repository browser
+
+cambiar a master
+
+boton derecho rama developer
+
+merge revision
+
+always create commit (que crea un nuevo commit con el ultimo de la rama mergeada
+
+
+
+
+Cambiar a developer y hacer lo mismo pero con la opcion fast forward

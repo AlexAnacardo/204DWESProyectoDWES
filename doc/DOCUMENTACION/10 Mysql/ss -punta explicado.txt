@@ -1,0 +1,7 @@
+p:puerto
+u:udp
+n:numero de puerto
+t:puertos tcp
+a:todos
+
+para saber que puertos estan siendo utilizados

@@ -1,0 +1,20 @@
+Saber nombre modulo mysql
+
+
+ctrl w display_errors y display_startup_errors ponerlos a on
+
+reiniciar servicio apache
+
+ver modulos instalados
+
+instalamos distintos modulos
+
+cambiamos el memory limit de php.ini y reiniciamos el servicio
+
+instalamos xdebug
+
+configuramos xdebug.ini
+
+escribir toda esa mondà
+
+cambiar output buffering pa debugar

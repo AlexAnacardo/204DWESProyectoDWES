@@ -1,0 +1,9 @@
+Nuevo subdominio
+
+Nombre subdominio: proyecto +.informatimovidas
+
+nombre directorio: /httpdocs/nombreproyecto   Y NADA MAS
+
+
+
+MUY IMPORTANTE TENER HTACCESS
