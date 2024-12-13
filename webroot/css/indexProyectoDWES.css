@@ -1,94 +1,104 @@
-/*General*/
-
-*{
+/* General */ * {
     margin: 0;
     padding: 0;
 }
-html{
+html, body {
     height: 100%;
-}
-
-/*Encabezado*/
-
-h1{
+} /* Encabezado */
+h1 {
     text-align: center;
-    font-size: 450%;
+    font-size: 4.5em;
     background-color: #131921;
-    color: white;  
-    padding: 2% 1%;                 
-}
-
-/*body*/
-
-h2{
+    color: white;
+    padding: 2% 1%;
+} /* Body */
+h2 {
     text-align: left;
     width: 100%;
 }
-
-main p{
+main p {
     width: 33%;
     text-align: center;
     margin: 1% 0;
     margin-right: 0.5%;
-    background-color: #FFD814; 
-    padding: 0.3%;
+    background-color: #FFD814;
+    
     border-radius: 7px;
 }
-
-main p:hover{
+main p:hover {
     background-color: #F7CA00;
 }
-div{
+div {
     width: 75%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin: 1% auto;  
+    margin: 1% auto;
 }
-
-body{                              
+body {
     display: flex;
-    flex-direction: column;    
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;                
-    height: 100%; 
+    flex-direction: column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 100%;
     background-color: #E3E6E6;
 }
-main{
+main {
     background-color: white;
     margin: 0 auto;
-    height: 100%;
     width: 70%;
-    align-items: center;    
-
-
+    align-items: center;
+    flex: 1;
 }
-
-a{
+a {
     text-decoration: none;
     color: black;
-    text-align: center;    
-}
-
-/*footer*/
-
-footer{
+    text-align: center;
+} /* Footer */
+footer {
     display: flex;
-    flex-direction: row;                 
+    flex-direction: row;
     justify-content: center;
     background-color: #232F3E;
-    font-size: 140%;       
+    font-size: 1.4em;    
 }
-
-footer a{
-    color: white;  
+footer a {
+    color: white;
     font-weight: bold;
 }
-footer p{
-    text-align: center;                
-    width: fit-content;   
-    margin: 2% 1.5%;                          
+footer p {
+    text-align: center;
+    width: fit-content;
+    margin: 2% 1.5%;
 }
-footer p:hover{
-    text-decoration: underline;  
+footer p:hover {
+    text-decoration: underline;
     color: white;
+} /* Media Queries */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3em;
+    }
+    main {
+        width: 80%;
+    }
+    main p {
+        width: 80%;
+    }
+    footer {
+        font-size: 1.2em;
+    }
+}
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em;
+    }
+    main {
+        width: 90%;
+    }
+    main p {
+        width: 90%;
+    }
+    footer {
+        font-size: 1em;
+    }
 }

@@ -1,0 +1,94 @@
+/*General*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+}
+
+/*Encabezado*/
+
+h1{
+    text-align: center;
+    font-size: 450%;
+    background-color: #131921;
+    color: white;  
+    padding: 2% 1%;                 
+}
+
+/*body*/
+
+h2{
+    text-align: left;
+    width: 100%;
+}
+
+main p{
+    width: 33%;
+    text-align: center;
+    margin: 1% 0;
+    margin-right: 0.5%;
+    background-color: #FFD814; 
+    padding: 0.3%;
+    border-radius: 7px;
+}
+
+main p:hover{
+    background-color: #F7CA00;
+}
+div{
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 1% auto;  
+}
+
+body{                              
+    display: flex;
+    flex-direction: column;    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;                
+    height: 100%; 
+    background-color: #E3E6E6;
+}
+main{
+    background-color: white;
+    margin: 0 auto;
+    height: 100%;
+    width: 70%;
+    align-items: center;    
+
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;    
+}
+
+/*footer*/
+
+footer{
+    display: flex;
+    flex-direction: row;                 
+    justify-content: center;
+    background-color: #232F3E;
+    font-size: 140%;       
+}
+
+footer a{
+    color: white;  
+    font-weight: bold;
+}
+footer p{
+    text-align: center;                
+    width: fit-content;   
+    margin: 2% 1.5%;                          
+}
+footer p:hover{
+    text-decoration: underline;  
+    color: white;
+}
