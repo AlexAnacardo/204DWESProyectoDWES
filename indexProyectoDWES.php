@@ -39,7 +39,8 @@
                 <p><a href="../204DWESLoginLogoffTema5/indexLoginLogoffTema5.php">Login Logoff Tema 5</a></p>
             </div>
             <div id="tema6">
-                <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2>                
+                <h2>TEMA 6: PROGRAMACIÓN ORIENTADA A OBJETOS EN PHP</h2> 
+                <p><a href="../204DWESLoginLogoffTema6/indexLoginLogoffTema6.php">Login Logoff Tema 6</a></p>
             </div>
             <div id="tema7">
                 <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>                
