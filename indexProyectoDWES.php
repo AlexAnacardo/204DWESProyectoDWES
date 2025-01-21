@@ -43,11 +43,13 @@
                 <p><a href="../204DWESLoginLogoffTema6/indexLoginLogoffTema6.php">Login Logoff Tema 6</a></p>
             </div>
             <div id="tema7">
-                <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>                
+                <h2>TEMA 7: PROGRAMACIÓN DE SERVICIOS WEB</h2>                 
             </div>
             <div id="tema8">
-                <h2>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>              
+                <h2>TEMA 8: DESARROLLO DE APLICACIONES WEB HÍBRIDAS</h2>     
+                <p id="proyectoFinal"><a href="../204DWESAplicacionFinal/indexLoginLogoffTema6.php">Proyecto Final</a></p>
             </div>
+            
         </main>
         <footer>
             <p><a href="../index.html">Alex Asensio Sanchez</a></p>

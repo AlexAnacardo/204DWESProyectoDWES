@@ -28,6 +28,12 @@ main p {
 main p:hover {
     background-color: #F7CA00;
 }
+#proyectoFinal{
+    background-color: #42f5f5;
+}
+#proyectoFinal:hover{
+    background-color: #30b8b8; 
+}
 div {
     width: 75%;
     display: flex;
